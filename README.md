@@ -8,4 +8,4 @@
 
 ## Gif
 
-<img src="weather-app-vg.gif"/>
+<img src="./images/weatherApp.gif"/>
